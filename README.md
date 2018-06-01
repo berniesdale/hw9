@@ -1,4 +1,5 @@
 # hw9
+Задание сделано в Notepad++
 1. выражение ^\s*$ заменить на \0 - удаляет пробелы в пустых строчках. \n\r заменить на \0 - удаляет пустые строчки
 ![alt text](https://github.com/berniesdale/hw9/blob/master/1.png)
 ![alt text](https://github.com/berniesdale/hw9/blob/master/2.png)
